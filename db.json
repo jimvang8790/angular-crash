@@ -23,6 +23,12 @@
       "day": "May 7th at 1:30PM",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Guitar Practice",
+      "day": "August 7th at 6:00PM",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
